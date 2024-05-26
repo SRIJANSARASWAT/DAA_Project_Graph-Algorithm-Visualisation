@@ -1,5 +1,3 @@
-Certainly! Here's a README.md tailored specifically for your repository, focusing on Prim's and Kruskal's algorithms for minimum spanning trees.
-
 ```markdown
 # DAA Project: Graph Algorithm Visualization
 
