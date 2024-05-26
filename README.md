@@ -70,4 +70,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or feedback, please contact the project owner:
 - GitHub: [SRIJANSARASWAT](https://github.com/SRIJANSARASWAT)
-```
