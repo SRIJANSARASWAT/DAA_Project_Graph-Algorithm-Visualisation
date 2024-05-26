@@ -1,4 +1,3 @@
-```markdown
 # DAA Project: Graph Algorithm Visualization
 
 This project aims to provide visualizations for Prim's and Kruskal's algorithms, which are used to find minimum spanning trees in graphs.
